@@ -1,0 +1,17 @@
+﻿<Window x:Class="Grade_8_Modules.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Grade_8_Modules"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="437.324" Width="721.227" ResizeMode="NoResize" WindowStyle="None" AllowsTransparency="True" Background="#00000000">
+    <Grid>
+        <Ellipse HorizontalAlignment="Center" Height="100" Margin="296,162,325,175" Stroke="#00000000" VerticalAlignment="Center" Width="100">
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="81-removebg-preview.png"/>
+            </Ellipse.Fill>
+        </Ellipse>
+
+    </Grid>
+</Window>
